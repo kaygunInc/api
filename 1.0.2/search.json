@@ -1,2 +1,1 @@
-{"code":0,"data":{"array":[{"url":"s1.png","text":"Top Hip-Hop &Rap Songs"},{"url":"url2","text":"Top Pop Songs"},{"url":"url3","text":"TOP New Songs"}]}}
-
+{"code":0,"data":{"array":[{"url":"s1.png","text":"Top Hip-Hop &Rap Songs"},{"url":"s2.png","text":"Top Pop Songs"},{"url":"s3.png","text":"TOP New Songs"}],"imagePrefix":"https://raw.githubusercontent.com/kaygunInc/api/main/1.0.2/"}}
