@@ -2,11 +2,11 @@
     "code": 0,
     "data": {
         "search": true,
-        "ignoreCache": true,
-        "count": 40,
+        "ignoreCache": false,
+        "count": 20,
         "ua1": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15,gzip(gfe)",
         "ua2": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15",
-        "adCount": 40,
+        "adCount": 20,
         "ad": {
             "enable": true,
             "tradePlus": "529C2B86CFE7A68C45DA89C3F71D3F21",
