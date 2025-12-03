@@ -15,8 +15,6 @@
             "openLoading": false,
             "openMaxTime": 10,
             "homeBanner": "B5F99102ADA3E21363BC4ABD570BB622"
-        },
-        "url1": "",
-        "dic1": "{\"context\":{\"client\":{\"hl\":\"en\",\"gl\":\"CZ\",\"deviceMake\":\"Apple\",\"deviceModel\":\"\",\"visitorData\":\"VISITOR_DATA\",\"userAgent\":\"USER_AGENT\",\"clientName\":\"IOS\",\"clientVersion\":\"1.20250602.08.00\",\"osName\":\"Macintosh\",\"originalUrl\":\"https://www.youtube.com/watch?v=VIDEO_ID\",\"screenPixelDensity\":2,\"platform\":\"DESKTOP\",\"clientFormFactor\":\"UNKNOWN_FORM_FACTOR\",\"screenDensityFloat\":2,\"userInterfaceTheme\":\"USER_INTERFACE_THEME_DARK\",\"acceptHeader\":\"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\",\"screenWidthPoints\":892,\"screenHeightPoints\":865,\"utcOffsetMinutes\":120,\"clientScreen\":\"WATCH\",\"mainAppWebInfo\":{\"graftUrl\":\"/watch?v=VIDEO_ID\",\"webDisplayMode\":\"WEB_DISPLAY_MODE_BROWSER\",\"isWebNativeShareAvailable\":true}},\"user\":{\"lockedSafetyMode\":false},\"request\":{\"useSsl\":true,\"internalExperimentFlags\":[],\"consistencyTokenJars\":[]}},\"videoId\":\"VIDEO_ID\",\"racyCheckOk\":true,\"contentCheckOk\":true}"
+        }
     }
 }
