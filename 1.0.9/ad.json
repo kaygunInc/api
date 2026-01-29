@@ -3,8 +3,8 @@
     "data": {
         "search": true,
         "ignoreCache": false,
-        "count": 40,
-        "adCount": 40,
+        "count": 20,
+        "adCount": 20,
         "cId": "20.48.4",
         "ad": {
             "enable": true,
