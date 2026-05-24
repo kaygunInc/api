@@ -1,0 +1,42 @@
+{
+    "hour_limit": 3,
+    "rate_limit": 60,
+    "cold_start": {
+        "type": "int",
+        "unit_id": "ca-app-pub-9053158032477374/9924387826"
+    },
+    "hot_start": {
+        "type": "app_open",
+        "unit_id": "ca-app-pub-9053158032477374/7824460798"
+    },
+    "player_actions": {
+        "type": "int",
+        "unit_id": "ca-app-pub-9053158032477374/4009716168"
+    },
+    "muisc_detail_native": {
+        "type": "big_native",
+        "unit_id": "ca-app-pub-9053158032477374/1833767511"
+    },
+    "library_center_native": {
+        "type": "big_native",
+        "unit_id": "ca-app-pub-9053158032477374/7019022884"
+    },
+    "global_high_ads": {
+        "failure_count": 2,
+        "fresh_day":5,
+        "ids": [
+            {
+                "type": "int",
+                "unit_id": "ca-app-pub-9053158032477374/1383552825"
+            },
+            {
+                "type": "int",
+                "unit_id": "ca-app-pub-9053158032477374/4672061146"
+            }
+        ]
+    },
+    "common_full_ad": {
+        "type": "int",
+        "unit_id": "ca-app-pub-9053158032477374/6444307815"
+    }
+}
