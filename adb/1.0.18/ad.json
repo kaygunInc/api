@@ -23,7 +23,7 @@
     },
     "global_high_ads": {
         "failure_count": 2,
-        "fresh_day":5,
+        "fresh_day":14,
         "ids": [
             {
                 "type": "int",
