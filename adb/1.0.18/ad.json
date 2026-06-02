@@ -1,5 +1,5 @@
 {
-    "hour_limit": 3,
+    "hour_limit": 20,
     "rate_limit": 60,
     "cold_start": {
         "type": "int",
