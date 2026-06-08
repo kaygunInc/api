@@ -1,5 +1,5 @@
 {
-    "hour_limit": 3,
+    "hour_limit": 20,
     "rate_limit": 60,
     "cold_start": {
         "type": "int",
@@ -23,7 +23,7 @@
     },
     "global_high_ads": {
         "failure_count": 2,
-        "fresh_day":5,
+        "fresh_day": 14,
         "ids": [
             {
                 "type": "int",
@@ -39,6 +39,6 @@
         "type": "int",
         "unit_id": "ca-app-pub-9053158032477374/6444307815"
     },
-    "hot_ignoreRateLimit":true,
-    "hot_sysIgnoreNum":1,
+    "hot_ignoreRateLimit": true,
+    "hot_sysIgnoreNum": 1
 }
