@@ -1,12 +1,12 @@
 {
-    "hour_limit_new":10,
-    "hour_limit_old":13,
+    "hour_limit_new":60,
+    "hour_limit_old":60,
     "coldShow_new":false,
     "rate_limit_new_begin":300,
-    "rate_limit_new_later":90,
+    "rate_limit_new_later":60,
     "coldShow_old":true,
     "rate_limit_old_begin":180,
-    "rate_limit_old_later":90,
+    "rate_limit_old_later":60,
     "cold_start": {
         "type": "int",
         "unit_id": "ca-app-pub-9053158032477374/9924387826"
