@@ -16,5 +16,18 @@
             "openMaxTime": 10,
             "homeBanner": "B5F99102ADA3E21363BC4ABD570BB622"
         },
+        "version": "1.0.25",
+        "vOld": {
+            "search": true,
+            "ignoreCache": false,
+            "count": 40,
+            "adCount": 40
+        },
+        "vNew": {
+            "search": true,
+            "ignoreCache": false,
+            "count": 20,
+            "adCount": 20
+        }
     }
 }
